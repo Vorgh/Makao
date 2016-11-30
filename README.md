@@ -1,4 +1,4 @@
-# Server-Client-Makaó
+﻿# Server-Client-Makaó
 
 ###Leírás
 
@@ -31,7 +31,7 @@ Pl.:A piros lapok:
 * PS -> Piros ász  
   
 Minden játékos üzenetet kap, amikor az ő köre van. Ilyenkor egy lap sorszámát megadva le lehet rakni.  
-A **kérőlapok** a következők működnek:  
+A **kérőlapok** a következőként működnek:  
 Alsóval számot, felsővel színt lehet kérni. Például ha az 1-es sorszámú lapunk egy felső, akkor az "1 PX" paranccsal pirosat kértünk. Alsónál ez "1 X8"-ra módosul, amivel 8-ast kértünk.
 
 A játékszabályok a hivatalos játékszabályok, kivéve, hogy kérőlapokra nem lehet kontrázni, és egyszerre csak egy lapot lehet lerakni.  
